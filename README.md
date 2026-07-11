@@ -38,7 +38,7 @@ class Aneesha:
 
 ![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ➡️ **[View Live App](https://findash-652o.vercel.app)**
 
@@ -48,9 +48,9 @@ class Aneesha:
 
 > An intelligent weather advisory app providing smart, location-based weather insights.
 
-![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
+![css](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![html](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 → **[View Live App](https://argo-weather-adviser.vercel.app/)** · Looking for collaborators — contributions welcome!
 
@@ -80,8 +80,7 @@ class Aneesha:
 
 **Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MYSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
