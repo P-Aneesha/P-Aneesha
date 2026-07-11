@@ -10,6 +10,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-aneeshapanyala-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/aneeshapanyala)
 [![Instagram](https://img.shields.io/badge/Instagram-aneeshareddy__232006-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aneeshareddy_232006)
 [![Email](https://img.shields.io/badge/Email-aneeshapanyala9%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aneeshapanyala9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](portfoilo-kappa-bay.vercel.apps)
+
 
 </div>
 
@@ -102,6 +104,8 @@ If it involves building something impactful on the web, I'm in. Reach out!
 ## 📬 Connect with Me
 
 <div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](portfoilo-kappa-bay.vercel.apps)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesha-reddy-panyala)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneeshapanyala9@gmail.com)
