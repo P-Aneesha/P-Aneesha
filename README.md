@@ -20,10 +20,10 @@ class Aneesha:
     name       = "P. Aneesha"
     location   = "India 🇮🇳"
     focus      = ["Web Development", "Cloud Computing", "Full-Stack Apps", "Databases"]
-    currently_building = "FINDASH-PFAS — Financial Dashboard & Analysis Platform"
-    currently_learning = ["Cloud Computing", "AWS", "Advanced PostgreSQL"]
+    currently_building = "multi-agent adress verification for small business"
+    currently_learning = ["Cloud Computing", "AWS", ]
     open_to    = "Web Dev & Full-Stack collaborations"
-    ask_me_about = ["HTML", "CSS", "JavaScript", "Python", "SQLite", "PostgreSQL"]
+    ask_me_about = ["HTML", "CSS", "JavaScript", "Python", "SQLite", "MYSQL"]
     fun_fact   = "I turn ideas into interactive web experiences ✨"
 ```
 
@@ -31,19 +31,19 @@ class Aneesha:
 
 ## 🚀 Featured Projects
 
-### [FINDASH-PFAS — Financial Dashboard](https://findash-pfas.onrender.com)
+### [FINDASH-PFAS — Financial Dashboard](findash-652o.vercel.app)
 
-> A live financial dashboard and PFAS analysis platform. Built with Python and deployed on Render.
+> A live financial dashboard and smart fincial personal analysis platform. Built with Python and deployed on Render.
 
 ![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-→ **[View Live App](https://findash-pfas.onrender.com)**
+→ **[View Live App](findash-652o.vercel.app)**
 
 ---
 
-### [Argo Weather Advisor](https://argo-weather-adviser.onrender.com)
+### [Argo Weather Advisor](https://argo-weather-adviser.vercel.app/)
 
 > An intelligent weather advisory app providing smart, location-based weather insights.
 
@@ -51,7 +51,7 @@ class Aneesha:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-→ **[View Live App](https://argo-weather-adviser.onrender.com)** · Looking for collaborators — contributions welcome!
+→ **[View Live App](https://argo-weather-adviser.vercel.app/)** · Looking for collaborators — contributions welcome!
 
 ---
 
@@ -59,7 +59,7 @@ class Aneesha:
 
 | 🌐 Frontend Dev | 🔧 Backend Dev | ☁️ Cloud & Databases |
 |:---|:---|:---|
-| Building responsive, modern UIs with HTML, CSS & JavaScript | Server-side logic with Python, Node.js & REST APIs | Cloud deployments on AWS, database design with PostgreSQL & SQLite |
+| Building responsive, modern UIs with HTML, CSS & JavaScript | Server-side logic with Python, js & REST APIs | Cloud deployments on AWS, database design with MYSQL & SQLite |
 
 ---
 
@@ -75,7 +75,7 @@ class Aneesha:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Databases & Cloud**
 
@@ -92,7 +92,7 @@ I'm actively looking to team up on:
 
 - 🌐 **Full-Stack Web projects** — responsive apps, dashboards, APIs
 - ☁️ **Cloud Computing projects** — AWS deployments, serverless apps
-- 🗄️ **Database-driven apps** — PostgreSQL, SQLite, data modeling
+- 🗄️ **Database-driven apps** — MYSQLL, SQLite, data modeling
 - 🐍 **Python projects** — automation, scripting, web backends
 
 If it involves building something impactful on the web, I'm in. Reach out!
