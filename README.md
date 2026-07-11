@@ -25,7 +25,7 @@ class Aneesha:
     currently_building = "multi-agent adress verification for small business"
     currently_learning = ["Cloud Computing", "AWS", ]
     open_to    = "Web Dev & Full-Stack collaborations"
-    ask_me_about = ["HTML", "CSS", "JavaScript", "Python", "SQLite", "MYSQL"]
+    ask_me_about = ["HTML", "CSS", "JavaScript", "Python", "postgresql", "MYSQL"]
     fun_fact   = "I turn ideas into interactive web experiences ✨"
 ```
 
@@ -38,7 +38,7 @@ class Aneesha:
 
 ![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MYSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ➡️ **[View Live App](https://findash-652o.vercel.app)**
 
@@ -48,9 +48,13 @@ class Aneesha:
 
 > An intelligent weather advisory app providing smart, location-based weather insights.
 
-![css](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![html](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 → **[View Live App](https://argo-weather-adviser.vercel.app/)** · Looking for collaborators — contributions welcome!
 
@@ -82,7 +86,6 @@ class Aneesha:
 
 ![MYSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ---
 
